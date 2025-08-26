@@ -87,12 +87,11 @@ A curated list for Turtle WoW players
 ### Healer
 
 - **[QuickHeal](https://github.com/jrc13245/QuickHeal):** Heals without manual targeting or deselecting enemies.  
-  ![QuickHeal screenshot](https://raw.githubusercontent.com/<username>/<repository>/main/images/quickheal.png)
+  ![QuickHeal screenshot](https://github.com/Kuldebar/atoning-unifex/blob/0fd532e8b2b7412b543eb0582ccdb815c4ca8426/QuickHeal.png)
 
 ### Fishing
 
 - **[FishingBuddy](https://github.com/Lexiebean/FishingBuddy):** Fishing addon for Turtle WoW.  
-  ![FishingBuddy screenshot](https://raw.githubusercontent.com/<username>/<repository>/main/images/fishingbuddy.png)
 
 ### Enchanting
 
