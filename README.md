@@ -1,259 +1,105 @@
-Kuldebar's Preferred Addons and Mods for Turtle WoW: a curated list for sharing with fellow Turtles
-
-8/26/2025 Turtle WoW
-
---------------------------------------
-Each mod/addon link will have specific installation guidance, please utilize that information. Everything on this list will work together, if you pick and choose items, do so in an responsible manner because all necessary requirements are included.
---------------------------------------
-
-General Addons:
-
-Atlas: 
-Allows you to view dungeon maps/ battleground maps/dungeon locations/ flight paths and transport routes in game
-https://github.com/Otari98/Atlas
-
-AtlasLoot: 
-AtlasLoot Turtle WoW Edition allows you to view loot from bosses/ enchants/ crafted items/ reputation rewards/ PvP rewards in game
-https://github.com/Otari98/AtlasLoot
-
-AtlasQuest: 
-Allows you to view dungeon quests in game
-https://github.com/Otari98/AtlasQuest
-
-AutoDB2: 
-For pfQuest users that runs any pfQuest commands to automatically execute after logging in, for example: /db query
-https://github.com/refaim/AutoDB2
-
-aux-addon: 
-The best Auction House addon for Turtle WoW
-https://github.com/gwetchen/aux-addon
-
-Bagshui: 
-A Vanilla WoW 1.12 (and Turtle WoW) inventory addon
-https://github.com/veechs/Bagshui
-
-BigWigs: 
-Predicts certain AI behaviour to improve the players performance, built for use on the Turtle WoW private Server
-https://github.com/pepopo978/BigWigs
-
-Cursive: 
-Unit scanning with curse tracking similar to DotTimer and the ability to automatically curse targets similar to Decursive
-https://github.com/pepopo978/Cursive
-
-CursivePlates: 
-Addon for combining Cursives DoT tracking and pfUI nameplates
-https://github.com/goajos/CursivePlates
-
-Flyout: 
-Save actionbar slots, addon that mimics the flyout feature implemented in later expansions
-https://github.com/luskanek/Flyout
-
-Friend-O-Tron: 
-Automatic Friend Synchronization: Keeps friends lists synchronized across all characters on the same realm
-https://github.com/refaim/Friend-O-Tron
-
-GentleGC: 
-Gently but Automatically clear garbage without allocating more space, which causes long pauses for some players
-https://github.com/MarcelineVQ/GentleGC
-
-HatTrick: 
-Simple cloak/helm check box in the Character frame
-https://github.com/vakos1/HatTrick
-
-Lern2Spell: 
-Automatically upgrades spells on your actionbars
-https://github.com/mrrosh/Lern2Spell
-
-LevelRange-Turtle: 
-Shows zone level ranges, diplomacy, raids and instances on World Map
-https://github.com/Spartelfant/LevelRange-Turtle
-
-LibCraftingProfessions-1.0: 
-LibCraftingProfessions is a small library designed to provide a universal interface for crafting professions in Vanilla WoW (version 1.12.1) and Turtle WoW
-https://github.com/refaim/LibCraftingProfessions-1.0
-
-Magnify: 
-Add-on which allows the user to zoom the world map in or out.
-https://github.com/luskanek/Magnify/
-
-MasterTradeSkills: 
-A World of Warcraft: Vanilla and Turtle WoW addon that enhances the tooltip of trade skill ingredients
-https://github.com/refaim/MasterTradeSkills
-
-MessageBox: 
-Stores and displays whisper conversation history, never miss a whisper.
-https://github.com/tilare/MessageBox
-
-MikScrollingBattleText: 
-Does what it says on the tin.
-https://github.com/pepopo978/Vanilla_MikScrollingBattleText
-
-MissingCrafts: 
-Addon for Vanilla WoW (1.12.1) and Turtle WoW that helps players track crafting recipes they haven't learned yet across their characters
-https://github.com/refaim/MissingCrafts
-
-MobInfo2: 
-Provides you with useful additional information about Mobs
-https://github.com/refaim/MobInfo2
-
-MobStats: 
-Displays mob stats in a human-friendly form in the game tooltip
-https://github.com/refaim/MobStats
-
-ModernMapMarkers: 
-Places markers on the world map to show the locations of dungeons, raids, world bosses, boats, zeppelins, and trams
-https://github.com/tilare/ModernMapMarkers
-
-MoveAnything: 
-Useful, albeit old addon to move UI related stuff that pfUI can't move
-https://github.com/GryllsAddons/MoveAnything
-
-pfQuest:
-A Questhelper and Database
-https://github.com/shagu/pfQuest/
-
-pfQuest-turtle: 
-A pfQuest extension, which adds support for the TurtleWoW Private Server
-https://github.com/shagu/pfQuest-turtle/
-
-pfUI: 
-A full replacement for the original interface, ridiculously flexible core addon for nearly everything.
-https://github.com/shagu/pfUI/
-
-pfUI-turtle: 
-An extension for pfUI which adds a few skins for the Turtle WoW server custom UI elements, implements custom behaviour for a few classes' skills
-https://github.com/doorknob6/pfUI-turtle
-
-PizzaSlices: 
-Adds a ringmenu for stuff without reusing any of your existing action buttons
-https://github.com/Pizzahawaiii/PizzaSlices
-
-ProcDoc: 
-Lightweight World of Warcraft (Turtle WoW / Vanilla) addon that shows pulsing visuals whenever your character gains an instant-cast or free-cast buff
-https://github.com/wsmaxcy/ProcDoc
-
-Rinse: 
-Similar to Decursive, it helps with removing debuffs from friendly units
-https://github.com/pepopo978/Rinse
-
-sentry: 
-PVP, alerts you of nearby enemies which it detects through the combat log or active scanning
-https://github.com/shirsig/sentry
-
-ShaguInventory: 
-Shows the quantity of items in your inventory over all characters on the same account
-https://github.com/shagu/ShaguInventory/
-
-SmartBuff: 
-Automatically buff self/party/raid. Highly customisable.
-https://github.com/Lexiebean/SmartBuff
-
-Tmog: 
-Itembrowser, adds information about your transmog collection on item tooltips
-https://github.com/Otari98/Tmog
-
-TrainerSkills: 
-Shows the trainer frame from anywhere
-https://github.com/refaim/TrainerSkills
-
-TurtleMail: 
-Mailbox enhancement for Turtle WoW
-https://github.com/Otari98/TurtleMail
-
---------------------------------------
-
-Special Mods and Any Related Addons:
-
-UnitXP_SP3 Mod: 
-https://github.com/allfoxwy/UnitXP_SP3
-
-UnitXP_SP3_Addon: 
-WoW Vanilla 1.12 Lua Addon for supporting UnitXP SP3 mod
-https://github.com/allfoxwy/UnitXP_SP3_Addon
-
-Superwow Mod: 
-https://github.com/balakethelock/SuperWoW
-
-SuperAPI: The companion compatibility addon to the mod of the same name
-https://github.com/balakethelock/SuperAPI
-
-Nampower Mod: 
-https://github.com/pepopo978/nampower
-
-NampowerSettings: Nampower companion addon to make it easy to check/change the settings in game
-https://github.com/pepopo978/nampowersettings
-
-perf_boost mod: 
-https://github.com/pepopo978/perf_boost
-
-PerfBoostSettings: A configuration addon for the perf_boost.dll mod
-https://github.com/pepopo978/PerfBoostSettings
-
---------------------------------------
-
-Class/Profession/Role Specific Addons:
-( Not all encompassing, comprehensive! )
-
-HUNTER:
-
-GFW_FeedOMatic: 
-Helps you manage all the pet food in your inventory and auto-magically feed pet at press of a key
-https://github.com/nosrednaski/GFW_FeedOMatic
-
-GFW_HuntersHelper: 
-When you mouse over a beast in the world, the tooltip will show which abilities a Hunter could learn after taming it
-https://github.com/McPewPew/GFW_HuntersHelper
-
-ROGUE:
-
-RogueFocus: 
-Compact Combo/Energy/Tick display
-https://github.com/Road-block/RogueFocus
-
-StealthOverlay: 
-Adds fullscreen background texture while in stealth or prowl
-https://github.com/yutsuku/StealthOverlay
-
-GryllsComboSounds: 
-GryllsComboSounds will play a non-annoying sound when you gain a combo point
-https://github.com/GryllsAddons/GryllsComboSounds
-
-WARLOCK:
-
-GrimoireKeeper: 
-Tracks which grimoires your warlock pets have learned in grimoire vendor's window
-https://github.com/Scoboose/GrimoireKeeper/
-
-ShardCap: 
-
-Automagically deletes Soul Shards above the cap - when you exit combat (default 12).
-https://github.com/dogmax/ShardCap
-
-HEALER:
-
-QuickHeal: 
-Lets you heal the people who need it, without having to target them manually, or even having to deselect the enemy you're fighting
-https://github.com/jrc13245/QuickHeal
-
-FISHING:
-
-FishingBuddy: 
-Fixed, ported Fishing Addon for Turtle WoW
-https://github.com/Lexiebean/FishingBuddy
-
-ENCHANTING:
-
-GFW_DisenchantPredictor: 
-Shows which levels of items can be disenchanted to produce the reagent and provides additional info on which types of items are more or less likely to produce the reagent
-https://github.com/McPewPew/GFW_DisenchantPredictor
-
---------------------------------------
-Further Information:
-
-RetroCro's - (the best) Guide to must have stuff, basic Turtle- WoW information and mods:
-https://github.com/RetroCro/TurtleWoW-Mods
-
-Turtle WoW Wiki Addon's Page:
-https://turtle-wow.fandom.com/wiki/Addons
-
-
+# Kuldebar's Preferred Addons and Mods for Turtle WoW
+
+A curated list for Turtle WoW players  
+*8/26/2025*
+  ![Addons screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Addons.png)
+> **Note:** Check each link for installation guidance. All addons/mods here are compatible, but be cautious when selecting individual items to ensure requirements are met.
+
+## General Addons
+
+- **[Atlas](https://github.com/Otari98/Atlas):** View dungeon maps, battlegrounds, flight paths, and more.  
+  ![Atlas screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/Atlas.png)
+- **[AtlasLoot](https://github.com/Otari98/AtlasLoot):** Browse boss loot, enchants, crafted items, and rewards.  
+  ![AtlasLoot screenshot](https://github.com/Kuldebar/atoning-unifex/blob/345e96acb38792288f47809894b3ecf39833d56b/AtlasLoot1.png)
+- **[AtlasQuest](https://github.com/Otari98/AtlasQuest):** View dungeon quests in game.
+- **[AutoDB2](https://github.com/refaim/AutoDB2):** Auto-runs pfQuest commands on login (e.g., `/db query`).
+  ![AutoDB2 screenshot](https://github.com/Kuldebar/atoning-unifex/blob/9680c2cc6e38c7d2bb33c61fce16a05e894def2d/AutoDB2.png)
+- **[aux-addon](https://github.com/gwetchen/aux-addon):** Auction House addon for Turtle WoW.
+- **[Bagshui](https://github.com/veechs/Bagshui):** Inventory management for Vanilla/Turtle WoW.
+  ![Bagshui screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/BagShui.png)
+- **[BigWigs](https://github.com/pepopo978/BigWigs):** Predicts AI behavior for better performance.  
+- **[Cursive](https://github.com/pepopo978/Cursive):** Tracks curses and auto-curses targets.
+- **[CursivePlates](https://github.com/goajos/CursivePlates):** Combines Cursive DoT tracking with pfUI nameplates.
+- **[Flyout](https://github.com/luskanek/Flyout):** Mimics later expansion flyout feature for actionbars.
+- **[Friend-O-Tron](https://github.com/refaim/Friend-O-Tron):** Syncs friend lists across characters.
+- **[GentleGC](https://github.com/MarcelineVQ/GentleGC):** Clears garbage to reduce game pauses.
+- **[HatTrick](https://github.com/vakos1/HatTrick):** Adds cloak/helm checkbox in Character frame.
+- **[Lern2Spell](https://github.com/mrrosh/Lern2Spell):** Auto-upgrades spells on actionbars.
+- **[LevelRange-Turtle](https://github.com/Spartelfant/LevelRange-Turtle):** Shows zone levels and instances on World Map.
+- **[LibCraftingProfessions-1.0](https://github.com/refaim/LibCraftingProfessions-1.0):** Interface for crafting professions.
+- **[Magnify](https://github.com/luskanek/Magnify):** Zooms the world map in/out.
+- **[MasterTradeSkills](https://github.com/refaim/MasterTradeSkills):** Enhances trade skill tooltips.
+- **[MessageBox](https://github.com/tilare/MessageBox):** Stores whisper conversation history.
+- **[MikScrollingBattleText](https://github.com/pepopo978/Vanilla_MikScrollingBattleText):** Displays scrolling combat text.
+- **[MissingCrafts](https://github.com/refaim/MissingCrafts):** Tracks unlearned crafting recipes.
+- **[MobInfo2](https://github.com/refaim/MobInfo2):** Adds mob info to tooltips.
+- **[MobStats](https://github.com/refaim/MobStats):** Shows mob stats in tooltips.
+- **[ModernMapMarkers](https://github.com/tilare/ModernMapMarkers):** Marks dungeons, raids, and transports on map.
+- **[MoveAnything](https://github.com/GryllsAddons/MoveAnything):** Moves UI elements pfUI can’t.
+- **[pfQuest](https://github.com/shagu/pfQuest):** Quest helper and database.
+  ![pfQuest screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/pfQuest.png)
+- **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle):** Turtle WoW support for pfQuest.
+- **[pfUI](https://github.com/shagu/pfUI):** Replaces default UI with flexible options.  
+  ![pfUI screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/pfUI.png)
+- **[pfUI-turtle](https://github.com/doorknob6/pfUI-turtle):** Adds Turtle WoW skins and class behaviors.
+- **[PizzaSlices](https://github.com/Pizzahawaiii/PizzaSlices):** Adds ringmenu without using action buttons.
+- **[ProcDoc](https://github.com/wsmaxcy/ProcDoc):** Shows visuals for instant/free-cast buffs.
+- **[Rinse](https://github.com/pepopo978/Rinse):** Removes debuffs from friendly units.
+- **[sentry](https://github.com/shirsig/sentry):** Alerts for nearby PVP enemies.
+- **[ShaguInventory](https://github.com/shagu/ShaguInventory):** Tracks inventory across characters.
+- **[SmartBuff](https://github.com/Lexiebean/SmartBuff):** Auto-buffs self/party/raid.
+- **[Tmog](https://github.com/Otari98/Tmog):** Shows transmog info on item tooltips.
+- **[TrainerSkills](https://github.com/refaim/TrainerSkills):** Access trainer frame anywhere.
+- **[TurtleMail](https://github.com/Otari98/TurtleMail):** Enhances mailbox for Turtle WoW.
+
+## Special Mods and Related Addons
+
+- **[UnitXP_SP3 Mod](https://github.com/allfoxwy/UnitXP_SP3):** Modernizes Vanilla WoW 1.12.
+- **[UnitXP_SP3_Addon](https://github.com/allfoxwy/UnitXP_SP3_Addon):** Supports UnitXP SP3 mod for Vanilla WoW 1.12.
+- **[Superwow Mod](https://github.com/balakethelock/SuperWoW):** Fixes client bugs and expands Lua-based API for addons.
+- **[SuperAPI](https://github.com/balakethelock/SuperAPI):** Companion addon for Superwow mod.
+- **[Nampower Mod](https://github.com/pepopo978/nampower):** Adds spell queuing, auto-retry, and quickcasting with customization.
+- **[NampowerSettings](https://github.com/pepopo978/Nampowersettings):** In-game settings for Nampower mod.
+- **[perf_boost mod](https://github.com/pepopo978/perf_boost):** Optimizes performance with render distance controls for better FPS.
+- **[PerfBoostSettings](https://github.com/pepopo978/PerfBoostSettings):** Configuration for perf_boost mod.
+  ![DLLS.TXT screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Mod_Dlls.png)
+
+## Class/Profession/Role Specific Addons
+
+*Not an exhaustive list, nor comprehensive!*
+
+### Hunter
+
+- **[GFW_FeedOMatic](https://github.com/nosrednaski/GFW_FeedOMatic):** Manages pet food and auto-feeds with a keypress.
+- **[GFW_HuntersHelper](https://github.com/McPewPew/GFW_HuntersHelper):** Shows beast abilities in tooltips for taming.
+
+### Rogue
+
+- **[RogueFocus](https://github.com/Road-block/RogueFocus):** Displays combo points, energy, and ticks.
+- **[StealthOverlay](https://github.com/yutsuku/StealthOverlay):** Adds background texture in stealth/prowl.
+- **[GryllsComboSounds](https://github.com/GryllsAddons/GryllsComboSounds):** Plays sound for combo point gains.
+
+### Warlock
+
+- **[GrimoireKeeper](https://github.com/Scoboose/GrimoireKeeper):** Tracks warlock pet grimoires.
+- **[ShardCap](https://github.com/dogmax/ShardCap):** Auto-deletes excess Soul Shards after combat.
+
+### Healer
+
+- **[QuickHeal](https://github.com/jrc13245/QuickHeal):** Heals without manual targeting or deselecting enemies.  
+  ![QuickHeal screenshot](https://raw.githubusercontent.com/<username>/<repository>/main/images/quickheal.png)
+
+### Fishing
+
+- **[FishingBuddy](https://github.com/Lexiebean/FishingBuddy):** Fishing addon for Turtle WoW.  
+  ![FishingBuddy screenshot](https://raw.githubusercontent.com/<username>/<repository>/main/images/fishingbuddy.png)
+
+### Enchanting
+
+- **[GFW_DisenchantPredictor](https://github.com/McPewPew/GFW_DisenchantPredictor):** Shows disenchant outcomes for items.
+
+## Further Information
+
+- **[RetroCro's Guide](https://github.com/RetroCro/TurtleWoW-Mods):** Guide to Turtle WoW essentials and mods.
+- **[Turtle WoW Wiki Addon's Page](https://turtle-wow.fandom.com/wiki/Addons):** Additional addon resources.
+- **[Vanilla-Macros](https://github.com/Meridaw/Vanilla-Macros):** Inspiration and guidance for Vanilla 1.12 macros.
