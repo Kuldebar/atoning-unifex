@@ -12,8 +12,6 @@ A curated list for Turtle WoW players
 - **[AtlasLoot](https://github.com/Otari98/AtlasLoot):** Browse boss loot, enchants, crafted items, and rewards.  
   ![AtlasLoot screenshot](https://github.com/Kuldebar/atoning-unifex/blob/345e96acb38792288f47809894b3ecf39833d56b/AtlasLoot1.png)
 - **[AtlasQuest](https://github.com/Otari98/AtlasQuest):** View dungeon quests in game.
-- **[AutoDB2](https://github.com/refaim/AutoDB2):** Auto-runs pfQuest commands on login (e.g., `/db query`).
-  ![AutoDB2 screenshot](https://github.com/Kuldebar/atoning-unifex/blob/9680c2cc6e38c7d2bb33c61fce16a05e894def2d/AutoDB2.png)
 - **[aux-addon](https://github.com/gwetchen/aux-addon):** Auction House addon for Turtle WoW.
 - **[Bagshui](https://github.com/veechs/Bagshui):** Inventory management for Vanilla/Turtle WoW.
   ![Bagshui screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/BagShui.png)
@@ -46,7 +44,6 @@ A curated list for Turtle WoW players
 - **[ProcDoc](https://github.com/wsmaxcy/ProcDoc):** Shows visuals for instant/free-cast buffs.
 - **[Rinse](https://github.com/pepopo978/Rinse):** Removes debuffs from friendly units.
 - **[sentry](https://github.com/shirsig/sentry):** Alerts for nearby PVP enemies.
-- **[ShaguInventory](https://github.com/shagu/ShaguInventory):** Tracks inventory across characters.
 - **[SmartBuff](https://github.com/Lexiebean/SmartBuff):** Auto-buffs self/party/raid.
 - **[Tmog](https://github.com/Otari98/Tmog):** Shows transmog info on item tooltips.
 - **[TrainerSkills](https://github.com/refaim/TrainerSkills):** Access trainer frame anywhere.
