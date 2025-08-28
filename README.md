@@ -47,4 +47,85 @@ A curated list for Turtle WoW players, centered around *pfUI* for a polished exp
 - **[MobStats](https://github.com/refaim/MobStats):** Shows mob stats in tooltips.
 - **[ModernMapMarkers](https://github.com/tilare/ModernMapMarkers):** Marks dungeons, raids, and transports on map.
 - **[MoveAnything](https://github.com/GryllsAddons/MoveAnything):** Moves UI elements *pfUI* can’t.
-- **[pfQuest](https://github.com/shagu/pfQuest
+- **[pfQuest](https://github.com/shagu/pfQuest):** Quest helper and database.  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/pfQuest.png" alt="pfQuest quest tracker" width="400">
+- **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle):** Turtle WoW support for *pfQuest*.
+- **[pfUI](https://github.com/shagu/pfUI):** *Replaces default UI with highly customizable options, core to this list.*  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/pfUI.png" alt="pfUI custom UI" width="400">
+- **[pfUI-turtle](https://github.com/doorknob6/pfUI-turtle):** Adds Turtle WoW skins and class behaviors for *pfUI*.
+- **[PizzaSlices](https://github.com/Pizzahawaiii/PizzaSlices):** Adds ring menu without using action buttons.  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/PizzaSlices.jpg" alt="PizzaSlices ring menu 1" width="400">  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/PizzaSlices2.jpg" alt="PizzaSlices ring menu 2" width="400">
+- **[ProcDoc](https://github.com/wsmaxcy/ProcDoc):** Shows visuals for instant/free-cast buffs.
+- **[Rinse](https://github.com/pepopo978/Rinse):** Removes debuffs from friendly units.
+- **[sentry](https://github.com/shirsig/sentry):** Alerts for nearby PVP enemies.
+- **[SmartBuff](https://github.com/Lexiebean/SmartBuff):** Auto-buffs self/party/raid.
+- **[Tmog](https://github.com/Otari98/Tmog):** Shows transmog info on item tooltips.
+- **[TrainerSkills](https://github.com/refaim/TrainerSkills):** Access trainer frame anywhere.
+- **[TurtleMail](https://github.com/Otari98/TurtleMail):** Enhances mailbox for Turtle WoW.
+
+---
+
+## Special Mods and Related Addons
+
+- **[UnitXP_SP3 Mod](https://github.com/allfoxwy/UnitXP_SP3):** Modernizes Vanilla WoW 1.12.
+- **[UnitXP_SP3_Addon](https://github.com/allfoxwy/UnitXP_SP3_Addon):** Supports UnitXP SP3 mod for Vanilla WoW 1.12.
+- **[Superwow Mod](https://github.com/balakethelock/SuperWoW):** Fixes client bugs and expands Lua-based API for addons.
+- **[SuperAPI](https://github.com/balakethelock/SuperAPI):** Companion addon for Superwow mod.
+- **[Nampower Mod](https://github.com/pepopo978/nampower):** Adds spell queuing, auto-retry, and quickcasting with customization.
+- **[NampowerSettings](https://github.com/pepopo978/Nampowersettings):** In-game settings for Nampower mod.
+- **[perf_boost mod](https://github.com/pepopo978/perf_boost):** Optimizes performance with render distance controls for better FPS.
+- **[PerfBoostSettings](https://github.com/pepopo978/PerfBoostSettings):** Configuration for perf_boost mod.  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Mod_Dlls.png" alt="Special mods settings" width="400">
+
+---
+
+## Class/Profession/Role Specific Addons
+
+*Not an exhaustive list, nor comprehensive!*
+
+### Hunter
+
+- **[GFW_FeedOMatic](https://github.com/nosrednaski/GFW_FeedOMatic):** Manages pet food and auto-feeds with a keypress.
+- **[GFW_HuntersHelper](https://github.com/McPewPew/GFW_HuntersHelper):** Shows beast abilities in tooltips for taming.
+
+### Rogue
+
+- **[RogueFocus](https://github.com/Road-block/RogueFocus):** Displays combo points, energy, and ticks.
+- **[StealthOverlay](https://github.com/yutsuku/StealthOverlay):** Adds background texture in stealth/prowl.
+- **[GryllsComboSounds](https://github.com/GryllsAddons/GryllsComboSounds):** Plays sound for combo point gains.
+
+### Warlock
+
+- **[GrimoireKeeper](https://github.com/Scoboose/GrimoireKeeper):** Tracks warlock pet grimoires.
+- **[ShardCap](https://github.com/dogmax/ShardCap):** Auto-deletes excess Soul Shards after combat.
+
+### Healer
+
+- **[QuickHeal](https://github.com/jrc13245/QuickHeal):** Heals without manual targeting or deselecting enemies.  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/QuickHeal.png" alt="QuickHeal healing UI" width="400">
+
+### Fishing
+
+- **[FishingBuddy](https://github.com/Lexiebean/FishingBuddy):** Fishing addon for Turtle WoW.
+
+### Enchanting
+
+- **[GFW_DisenchantPredictor](https://github.com/McPewPew/GFW_DisenchantPredictor):** Shows disenchant outcomes for items.
+
+---
+
+## Alternative to pfUI
+
+If you prefer a modern UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*. Additional addons may be needed for full functionality.
+
+- **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  
+  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/DFR2.png" alt="Dragonflight Reloaded 2 UI" width="400">
+
+---
+
+## Further Information
+
+- **[RetroCro's Guide](https://github.com/RetroCro/TurtleWoW-Mods):** Guide to Turtle WoW essentials and mods.
+- **[Turtle WoW Wiki Addon's Page](https://turtle-wow.fandom.com/wiki/Addons):** Additional addon resources.
+- **[Vanilla-Macros](https://github.com/Meridaw/Vanilla-Macros):** Inspiration and guidance for Vanilla 1.12 macros.
