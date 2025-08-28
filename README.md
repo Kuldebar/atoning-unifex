@@ -13,6 +13,7 @@ A curated list for Turtle WoW players, centered around *pfUI* for a polished exp
 - [Special Mods and Related Addons](#special-mods-and-related-addons)
 - [Class/Profession/Role Specific Addons](#classprofessionrole-specific-addons)
 - [Alternative to pfUI](#alternative-to-pfui)
+- [Performance Tips](#performance-tips)
 - [Further Information](#further-information)
 
 ---
@@ -121,6 +122,15 @@ If you prefer a modern UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*.
 
 - **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/DFR2.png" alt="Dragonflight Reloaded 2 UI" width="400">
+
+---
+
+## Performance Tips
+
+To maximize Turtle WoW performance, especially in crowded areas like Stormwind:
+- Use **[perf_boost mod](https://github.com/pepopo978/perf_boost)** to optimize FPS with render distance controls.
+- Combine with **[GentleGC](https://github.com/MarcelineVQ/GentleGC)** to minimize game pauses.
+- For Linux users, run Turtle WoW via PortProton with a custom prefix (e.g., `/home/cl3v3r/PortProton/prefixes/DEFAULT/`) and set `PW_WINE_CPU_TOPOLOGY="2:0,1"` for smoother gameplay at ~40 FPS in lighter zones like Mulgore.
 
 ---
 
