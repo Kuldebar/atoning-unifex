@@ -3,22 +3,32 @@
 A curated list for Turtle WoW players centered around pfUI.
 *8/26/2025*
   ![Addons screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Addons.png)
-> **Note:** Check each link for installation guidance. All addons/mods here are compatible, but be cautious when selecting individual items to ensure requirements are met.
+  
+> **Note:** Check each link for installation guidance. All addons/mods here are compatible, be cautious when selecting individual items and excluding others, taking care to ensure requirements are met.
 
 ## General Addons
 
-- **[Atlas](https://github.com/Otari98/Atlas):** View dungeon maps, battlegrounds, flight paths, and more.  
+- **[Atlas](https://github.com/Otari98/Atlas):** View dungeon maps, battlegrounds, flight paths, and more.
+    
   ![Atlas screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/Atlas.png)
-- **[AtlasLoot](https://github.com/Otari98/AtlasLoot):** Browse boss loot, enchants, crafted items, and rewards.  
+  
+- **[AtlasLoot](https://github.com/Otari98/AtlasLoot):** Browse boss loot, enchants, crafted items, and rewards.
+    
   ![AtlasLoot screenshot](https://github.com/Kuldebar/atoning-unifex/blob/345e96acb38792288f47809894b3ecf39833d56b/AtlasLoot1.png)
+  
 - **[AtlasQuest](https://github.com/Otari98/AtlasQuest):** View dungeon quests in game.
 - **[aux-addon](https://github.com/gwetchen/aux-addon):** Auction House addon for Turtle WoW.
 - **[Bagshui](https://github.com/veechs/Bagshui):** Inventory management for Vanilla/Turtle WoW.
+  
   ![Bagshui screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/BagShui.png)
+  
 - **[BigWigs](https://github.com/pepopo978/BigWigs):** Predicts AI behavior for better performance.  
 - **[Cursive](https://github.com/pepopo978/Cursive):** Tracks curses and auto-curses targets.
 - **[CursivePlates](https://github.com/goajos/CursivePlates):** Combines Cursive DoT tracking with pfUI nameplates.
 - **[Flyout](https://github.com/luskanek/Flyout):** Mimics later expansion flyout feature for actionbars.
+  
+    ![Flyout](https://github.com/Kuldebar/atoning-unifex/blob/55cf240f82dd2fb55f893fd13bbcaedaa15b4764/Flyout.png)
+  
 - **[Friend-O-Tron](https://github.com/refaim/Friend-O-Tron):** Syncs friend lists across characters.
 - **[GentleGC](https://github.com/MarcelineVQ/GentleGC):** Clears garbage to reduce game pauses.
 - **[HatTrick](https://github.com/vakos1/HatTrick):** Adds cloak/helm checkbox in Character frame.
@@ -35,12 +45,21 @@ A curated list for Turtle WoW players centered around pfUI.
 - **[ModernMapMarkers](https://github.com/tilare/ModernMapMarkers):** Marks dungeons, raids, and transports on map.
 - **[MoveAnything](https://github.com/GryllsAddons/MoveAnything):** Moves UI elements pfUI can’t.
 - **[pfQuest](https://github.com/shagu/pfQuest):** Quest helper and database.
+  
   ![pfQuest screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/pfQuest.png)
+  
 - **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle):** Turtle WoW support for pfQuest.
-- **[pfUI](https://github.com/shagu/pfUI):** Replaces default UI with flexible options.  
+- **[pfUI](https://github.com/shagu/pfUI):** Replaces default UI with flexible options.
+    
   ![pfUI screenshot](https://github.com/Kuldebar/atoning-unifex/blob/70056411c161a04d11d2f780b25837ad798b794b/pfUI.png)
+  
 - **[pfUI-turtle](https://github.com/doorknob6/pfUI-turtle):** Adds Turtle WoW skins and class behaviors.
 - **[PizzaSlices](https://github.com/Pizzahawaiii/PizzaSlices):** Adds ringmenu without using action buttons.
+
+    ![PizzaSlices](https://github.com/Kuldebar/atoning-unifex/blob/55cf240f82dd2fb55f893fd13bbcaedaa15b4764/PizzaSlices.jpg)
+  
+    ![PizzaSlices2](https://github.com/Kuldebar/atoning-unifex/blob/55cf240f82dd2fb55f893fd13bbcaedaa15b4764/PizzaSlices2.jpg)
+  
 - **[ProcDoc](https://github.com/wsmaxcy/ProcDoc):** Shows visuals for instant/free-cast buffs.
 - **[Rinse](https://github.com/pepopo978/Rinse):** Removes debuffs from friendly units.
 - **[sentry](https://github.com/shirsig/sentry):** Alerts for nearby PVP enemies.
@@ -97,6 +116,7 @@ A curated list for Turtle WoW players centered around pfUI.
   
 ## If you don't wish to use pfUI, try Dragonflight: Reloaded 2 as an alternative (additional addons may be needed for further functionality)
 - **[-DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** A modern UI replacement for World of Warcraft Classic (1.12) inspired by the Dragonflight UI.
+  
   ![DFR2 screenshot](https://github.com/Kuldebar/atoning-unifex/blob/f336c0fe1e30eaf04de47fbcc95ee66bbed126bb/DFR2.png)
   
 ## Further Information
