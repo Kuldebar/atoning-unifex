@@ -1,7 +1,7 @@
 # Kuldebar's Preferred Addons and Mods for Turtle WoW
 
 A curated list for Turtle WoW players centered around pfUI.
-*8/26/2025*
+*8/28/2025*
   ![Addons screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Addons.png)
   
 > **Note:** Check each link for installation guidance. All addons/mods here are compatible, be cautious when selecting individual items and excluding others, taking care to ensure requirements are met.
