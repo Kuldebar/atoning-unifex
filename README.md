@@ -94,9 +94,10 @@ A curated list for Turtle WoW players centered around pfUI.
 
 - **[GFW_DisenchantPredictor](https://github.com/McPewPew/GFW_DisenchantPredictor):** Shows disenchant outcomes for items.
   
-## If you don't wish to use pfUI, try Dragonflight: Reloaded 2 as a strong alternative
+## If you don't wish to use pfUI, try Dragonflight: Reloaded 2 as an alternative (additional addons may be needed for further functionality)
 - **[-DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** A modern UI replacement for World of Warcraft Classic (1.12) inspired by the Dragonflight UI.
-  ![DFR2 screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Mod_Dlls.png)
+  ![DFR2 screenshot](https://github.com/Kuldebar/atoning-unifex/blob/f336c0fe1e30eaf04de47fbcc95ee66bbed126bb/DFR2.png)
+  
 ## Further Information
 
 - **[RetroCro's Guide](https://github.com/RetroCro/TurtleWoW-Mods):** Guide to Turtle WoW essentials and mods.
