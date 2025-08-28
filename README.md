@@ -1,6 +1,6 @@
 # Kuldebar's Preferred Addons and Mods for Turtle WoW
 
-A curated list for Turtle WoW players  
+A curated list for Turtle WoW players centered around pfUI.
 *8/26/2025*
   ![Addons screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Addons.png)
 > **Note:** Check each link for installation guidance. All addons/mods here are compatible, but be cautious when selecting individual items to ensure requirements are met.
@@ -93,7 +93,10 @@ A curated list for Turtle WoW players
 ### Enchanting
 
 - **[GFW_DisenchantPredictor](https://github.com/McPewPew/GFW_DisenchantPredictor):** Shows disenchant outcomes for items.
-
+  
+## If you don't wish to use pfUI, try Dragonflight: Reloaded 2 as a strong alternative
+- **[-DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** A modern UI replacement for World of Warcraft Classic (1.12) inspired by the Dragonflight UI.
+  ![DFR2 screenshot](https://github.com/Kuldebar/atoning-unifex/blob/84025aecbe422fc7137a052b486e2debdc6429cc/Mod_Dlls.png)
 ## Further Information
 
 - **[RetroCro's Guide](https://github.com/RetroCro/TurtleWoW-Mods):** Guide to Turtle WoW essentials and mods.
