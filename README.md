@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Turtle-Wow-turtlewow_logo_lettering.png" alt="Turtle WoW Logo" width="300">
 
-A curated list for Turtle WoW players, centered around *pfUI* for a polished experience. *Updated: 8/28/2025*
+A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightReloaded* for a polished experience. *Updated: 8/28/2025*
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Addons.png" alt="Addons overview" width="500">
 
@@ -13,7 +13,6 @@ A curated list for Turtle WoW players, centered around *pfUI* for a polished exp
 - [Special Mods and Related Addons](#special-mods-and-related-addons)
 - [Class/Profession/Role Specific Addons](#classprofessionrole-specific-addons)
 - [Alternative to pfUI](#alternative-to-pfui)
-- [Performance Tips](#performance-tips)
 - [Further Information](#further-information)
 
 ---
@@ -47,7 +46,6 @@ A curated list for Turtle WoW players, centered around *pfUI* for a polished exp
 - **[MobInfo2](https://github.com/refaim/MobInfo2):** Adds mob info to tooltips.
 - **[MobStats](https://github.com/refaim/MobStats):** Shows mob stats in tooltips.
 - **[ModernMapMarkers](https://github.com/tilare/ModernMapMarkers):** Marks dungeons, raids, and transports on map.
-- **[MoveAnything](https://github.com/GryllsAddons/MoveAnything):** Moves UI elements *pfUI* can’t.
 - **[pfQuest](https://github.com/shagu/pfQuest):** Quest helper and database.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/pfQuest.png" alt="pfQuest quest tracker" width="400">
 - **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle):** Turtle WoW support for *pfQuest*.
@@ -118,19 +116,24 @@ A curated list for Turtle WoW players, centered around *pfUI* for a polished exp
 
 ## Alternative to pfUI
 
-If you prefer a modern UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*. Additional addons may be needed for full functionality.
+If you prefer a modern _yet more classic_ UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*. 
 
 - **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/DFR2.png" alt="Dragonflight Reloaded 2 UI" width="400">
 
----
+- **[ShaguTweaks](https://github.com/shagu/ShaguTweaks):** A collection of tweaks and enhancements to the Default UI. 
 
-## Performance Tips
+- **[ShaguTweaks-extras](https://github.com/shagu/ShaguTweaks-extras):** This addon extends the capabilities of [ShaguTweaks](https://github.com/shagu/ShaguTweaks) by offering optional modules that can be easily toggled on or off. 
 
-To maximize Turtle WoW performance, especially in crowded areas like Stormwind:
-- Use **[perf_boost mod](https://github.com/pepopo978/perf_boost)** to optimize FPS with render distance controls.
-- Combine with **[GentleGC](https://github.com/MarcelineVQ/GentleGC)** to minimize game pauses.
-- For Linux users, run Turtle WoW via PortProton with a custom prefix (e.g., `/home/cl3v3r/PortProton/prefixes/DEFAULT/`) and set `PW_WINE_CPU_TOPOLOGY="2:0,1"` for smoother gameplay at ~40 FPS in lighter zones like Mulgore.
+**Additional addons that will enhance DragonflightReloaded:**
+
+- **[Tooltip Wrangler](https://legacy-wow.com/vanilla-addons/tooltip-wrangler/):** TAllows the user to move and anchor the tooltips freely about the screen. 
+
+- **[Fizzle](https://github.com/McPewPew/Fizzle):** Shows you an items durability values above the item in your character frame. It can show you either the raw values, or a percentage value. 
+
+- **[EquipCompare](https://legacy-wow.com/vanilla-addons/equipcompare/):** Compare items easily with ones you have equipped. 
+
+- **[AutoRepair KC](https://legacy-wow.com/vanilla-addons/autorepair-kc/):** Attempts to Auto Repair your equipment when you visit an able vendor. 
 
 ---
 
