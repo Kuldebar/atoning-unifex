@@ -13,7 +13,9 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 - [Special Mods and Related Addons](#special-mods-and-related-addons)
 - [Class/Profession/Role Specific Addons](#classprofessionrole-specific-addons)
 - [Alternative to pfUI](#alternative-to-pfui)
+- [An Awesome UI Font](#an-awesome-ui-font)
 - [Further Information](#further-information)
+
 
 ---
 
@@ -67,7 +69,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 
 ## Special Mods and Related Addons
 
-- **[UnitXP_SP3 Mod](https://github.com/allfoxwy/UnitXP_SP3):** Modernizes Vanilla WoW 1.12.
+- **[UnitXP_SP3 Mod](https://github.com/allfoxwy/UnitXP_SP3):** Modernizes Vanilla WoW 1.12. [Backup](https://github.com/Kuldebar/atoning-unifex/blob/main/UnitXP_SP3_Backup.zip)
 - **[UnitXP_SP3_Addon](https://github.com/allfoxwy/UnitXP_SP3_Addon):** Supports UnitXP SP3 mod for Vanilla WoW 1.12.
 - **[Superwow Mod](https://github.com/balakethelock/SuperWoW):** Fixes client bugs and expands Lua-based API for addons.
 - **[SuperAPI](https://github.com/balakethelock/SuperAPI):** Companion addon for Superwow mod.
@@ -119,15 +121,21 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 If you prefer a modern _yet more classic_ UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*. 
 
 - **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  
-  <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/DFR2.png" alt="Dragonflight Reloaded 2 UI" width="400">
+  <img src="https://github.com/Kuldebar/atoning-unifex/blob/0cbf39cc7e02f9d7fd0f481a5261fa57e3b3d656/DFR.jpg" alt="Dragonflight Reloaded 2 UI" width="400">
 
 - **[ShaguTweaks](https://github.com/shagu/ShaguTweaks):** A collection of tweaks and enhancements to the Default UI. 
 
 - **[ShaguTweaks-extras](https://github.com/shagu/ShaguTweaks-extras):** This addon extends the capabilities of [ShaguTweaks](https://github.com/shagu/ShaguTweaks) by offering optional modules that can be easily toggled on or off. 
 
-**Additional addons that will enhance DragonflightReloaded:**
+- **[ShaguPlates](https://github.com/shagu/ShaguPlates):** Nameplate addon featuring castbars, class colors and much more. Type /splates to show the settings. 
 
-- **[Tooltip Wrangler](https://legacy-wow.com/vanilla-addons/tooltip-wrangler/):** TAllows the user to move and anchor the tooltips freely about the screen. 
+**Optional addons that will enhance DragonflightReloaded:**
+
+- **[Bongos](https://github.com/mrrosh/Bongos):** Movable action bar framework.
+
+- **[Tooltip Wrangler](https://legacy-wow.com/vanilla-addons/tooltip-wrangler/):** TTW allows the user to move and anchor the tooltips freely about the screen. 
+
+- **[VCB](https://github.com/tdymel/VCB):** Vanilla Consolidate Buff-Frames (VCB) is a smart system to manage your buffs. 
 
 - **[Fizzle](https://github.com/McPewPew/Fizzle):** Shows you an items durability values above the item in your character frame. It can show you either the raw values, or a percentage value. 
 
@@ -136,6 +144,11 @@ If you prefer a modern _yet more classic_ UI alternative to *pfUI*, try *Dragonf
 - **[AutoRepair KC](https://legacy-wow.com/vanilla-addons/autorepair-kc/):** Attempts to Auto Repair your equipment when you visit an able vendor. 
 
 ---
+
+## An Awesome UI Font
+
+- **[Sniglet](https://github.com/Kuldebar/atoning-unifex/blob/main/Sniglet.zip):** A playful, rounded font perfect for Turtle-WoW and easy on the eyes. 
+  <img src="https://github.com/Kuldebar/atoning-unifex/blob/0cbf39cc7e02f9d7fd0f481a5261fa57e3b3d656/sniglet_ttf.png" alt="Sniglet Font" width="400">
 
 ## Further Information
 
