@@ -29,7 +29,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 - **[aux-addon](https://github.com/gwetchen/aux-addon):** Best Auction House addon for Turtle WoW.
 - **[Bagshui](https://github.com/veechs/Bagshui):** Inventory management for Vanilla/Turtle WoW.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/BagShui.png" alt="Bagshui inventory UI" width="400">
-- **[BigWigs](https://github.com/pepopo978/BigWigs):** Predicts AI behavior for improved performance.
+- **[BigWigs](https://github.com/pepopo978/BigWigs):** Boss Mods with Timer bars.
 - **[Cursive](https://github.com/pepopo978/Cursive):** Tracks and auto-applies curses.
 - **[CursivePlates](https://github.com/goajos/CursivePlates):** Combines Cursive DoT tracking with *pfUI* nameplates.
 - **[Flyout](https://github.com/luskanek/Flyout):** Mimics later expansion flyout feature for action bars.  
