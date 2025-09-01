@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Turtle-Wow-turtlewow_logo_lettering.png" alt="Turtle WoW Logo" width="300">
 
-A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightReloaded* for a polished experience. *Updated: 8/31/2025*
+A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightReloaded* for a polished experience BUT you can choose to forgo both of those and still build a very fine UI from this list. For example, _ShaguTweaks and/or Bongos_ can improve the default Turtle UI features without reinventing it.  *Updated: 9/1/2025*
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Addons.png" alt="Addons overview" width="500">
 
@@ -51,7 +51,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 - **[pfQuest](https://github.com/shagu/pfQuest):** Quest helper and database.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/pfQuest.png" alt="pfQuest quest tracker" width="400">
 - **[pfQuest-turtle](https://github.com/shagu/pfQuest-turtle):** Turtle WoW support for *pfQuest*.
-- **[pfUI](https://github.com/shagu/pfUI):** *Replaces default UI with highly customizable options, core to this list.*  
+- **[pfUI](https://github.com/shagu/pfUI):** *Replaces default UI with highly customizable options, provides a comprehensive level of functionality.*  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/pfUI.png" alt="pfUI custom UI" width="400">
 - **[pfUI-turtle](https://github.com/doorknob6/pfUI-turtle):** Adds Turtle WoW skins and class behaviors for *pfUI*.
 - **[PizzaSlices](https://github.com/Pizzahawaiii/PizzaSlices):** Adds ring menu without using action buttons.  
@@ -108,7 +108,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 
 ### Fishing
 
-- **[FishingBuddy](https://github.com/Lexiebean/FishingBuddy):** Fishing addon for Turtle WoW.
+- **[FishingBuddy](https://github.com/Lexiebean/FishingBuddy):** Fishing addon for Turtle WoW. [Backup](https://github.com/Kuldebar/atoning-unifex/blob/main/FishingBuddy.zip)
 
 ### Enchanting
 
@@ -120,7 +120,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 
 If you prefer a modern _yet more classic_ UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*. 
 
-- **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  [Backup](https://github.com/Kuldebar/atoning-unifex/blob/main/-DragonflightReloaded-main.zip)
+- **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI - less complex than pfUI but very nice.  [Backup](https://github.com/Kuldebar/atoning-unifex/blob/main/-DragonflightReloaded-main.zip)
   <img src="https://github.com/Kuldebar/atoning-unifex/blob/0cbf39cc7e02f9d7fd0f481a5261fa57e3b3d656/DFR.jpg" alt="Dragonflight Reloaded 2 UI" width="400">
 
 - **[ShaguTweaks](https://github.com/shagu/ShaguTweaks):** A collection of tweaks and enhancements to the Default UI. 
