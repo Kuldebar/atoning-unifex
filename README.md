@@ -1,5 +1,6 @@
 # Kuldebar's Preferred Addons and Mods for Turtle WoW
-- **[Basic Addons and Mods]([https://github.com/Kuldebar/atoning-unifex/wiki]):** Guide to Turtle WoW essentials and mods.
+
+- **[Basic Addons and Mods](https://github.com/Kuldebar/atoning-unifex/wiki):**
 
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Turtle-Wow-turtlewow_logo_lettering.png" alt="Turtle WoW Logo" width="300">
