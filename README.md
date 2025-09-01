@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Turtle-Wow-turtlewow_logo_lettering.png" alt="Turtle WoW Logo" width="300">
 
-A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightReloaded* for a polished experience. *Updated: 8/28/2025*
+A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightReloaded* for a polished experience. *Updated: 8/31/2025*
 
 <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/Addons.png" alt="Addons overview" width="500">
 
@@ -26,7 +26,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 - **[AtlasLoot](https://github.com/Otari98/AtlasLoot):** Browse boss loot, enchants, crafted items, and rewards.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/AtlasLoot1.png" alt="AtlasLoot loot table" width="400">
 - **[AtlasQuest](https://github.com/Otari98/AtlasQuest):** View dungeon quests in-game.
-- **[aux-addon](https://github.com/gwetchen/aux-addon):** Best Auction House addon for Turtle WoW.
+- **[aux-addon](https://github.com/luskanek/aux-addon):** Best Auction House addon for Turtle WoW.
 - **[Bagshui](https://github.com/veechs/Bagshui):** Inventory management for Vanilla/Turtle WoW.  
   <img src="https://raw.githubusercontent.com/Kuldebar/atoning-unifex/main/BagShui.png" alt="Bagshui inventory UI" width="400">
 - **[BigWigs](https://github.com/pepopo978/BigWigs):** Boss Mods with Timer bars.
@@ -60,7 +60,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 - **[ProcDoc](https://github.com/wsmaxcy/ProcDoc):** Shows visuals for instant/free-cast buffs.
 - **[Rinse](https://github.com/pepopo978/Rinse):** Removes debuffs from friendly units.
 - **[sentry](https://github.com/shirsig/sentry):** Alerts for nearby PVP enemies.
-- **[SmartBuff](https://github.com/Lexiebean/SmartBuff):** Auto-buffs self/party/raid.
+- **[SmartBuff](https://github.com/Lexiebean/SmartBuff):** Auto-buffs self/party/raid. [Backup](https://github.com/Kuldebar/atoning-unifex/blob/main/SmartBuff.zip)
 - **[Tmog](https://github.com/Otari98/Tmog):** Shows transmog info on item tooltips.
 - **[TrainerSkills](https://github.com/refaim/TrainerSkills):** Access trainer frame anywhere.
 - **[TurtleMail](https://github.com/Otari98/TurtleMail):** Enhances mailbox for Turtle WoW.
@@ -120,7 +120,7 @@ A curated list for Turtle WoW players, centered around *pfUI* or *DragonflightRe
 
 If you prefer a modern _yet more classic_ UI alternative to *pfUI*, try *Dragonflight: Reloaded 2*. 
 
-- **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  
+- **[DragonflightReloaded](https://github.com/MtxGrower33/-DragonflightReloaded):** Modern UI replacement for WoW Classic (1.12), inspired by Dragonflight UI.  [Backup](https://github.com/Kuldebar/atoning-unifex/blob/main/-DragonflightReloaded-main.zip)
   <img src="https://github.com/Kuldebar/atoning-unifex/blob/0cbf39cc7e02f9d7fd0f481a5261fa57e3b3d656/DFR.jpg" alt="Dragonflight Reloaded 2 UI" width="400">
 
 - **[ShaguTweaks](https://github.com/shagu/ShaguTweaks):** A collection of tweaks and enhancements to the Default UI. 
